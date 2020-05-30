@@ -1,6 +1,7 @@
 {
   "posts": [
-  { "id" : 1, "title" : "nesto", "body" : "neki body"}
+  { "id" : 1, "title" : "nesto", "body" : "neki body"},
+  { "id" : 3, "title" : "nesto1", "body" : "neki body2"}
    
   
   ],
