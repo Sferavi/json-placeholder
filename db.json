@@ -10,11 +10,11 @@
   
    ],
   "cafes": [
-  { "id" : 24, "title" : "neki restoran", "body" : "neki opis"}
+  { "id" : 24, "title" : "neki kafic", "body" : "neki opis"}
   
    ],
   "natureSpots": [
-  { "id" : 6, "title" : "neki restoran", "body" : "neki opis"}
+  { "id" : 6, "title" : "neki vreloBosne", "body" : "neki opis"}
   
    ]
 }
