@@ -1,7 +1,11 @@
 {
   "posts": [
   { "id" : 1, "title" : "nesto", "body" : "neki body"}
+   
   
-  ]
+  ],
+  "restaurants": [
+  { "id" : 2, "title" : "neki restoran", "body" : "neki opis"}
+  
   
 }
