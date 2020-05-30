@@ -6,20 +6,14 @@
   { "id" : 4, "title" : "Gazi Husrev-beg Mosque","url" : "https://media.izi.travel/0deffeec-b56e-46eb-b6d9-664a63ea6281/ae579bc1-a154-4bbb-a4f6-43ae24309316_800x600.jpg", "body" : " Built in the 16th century, it is the largest historical mosque in Bosnia and Herzegovina and one of the most representative Ottoman structures in the Balkans. Being the central Sarajevo's mosque since the days of its construction, today it also serves as the main congregational mosque of the Islamic Community of Bosnia and Herzegovina. It is located in the Baščaršija neighborhood in the Stari Grad."},
   { "id" : 5, "title" : "Sebilj","url" : "https://sarajevo.co.ba/wp-content/uploads/2012/04/Sebilj-na-Bascarsiji.jpg", "body" : "The Sebilj is a Ottoman-style wooden fountain in the centre of Baščaršija square in Sarajevo built by Mehmed Pasha Kukavica in 1753. It was relocated by Austrian architect Alexander Wittek in 1891."},
   { "id" : 6, "title" : "TasliHan","url" : "https://kalmanradio.ba/wp-content/uploads/2019/10/taslihan-1024x680.jpg", "body" : "Tašlihan was one of three caravanserais in Sarajevowhich served both travelers and horses. A caravanserai was actually a large fort-like structure which could accommodate an entire caravan, with all of the pack horses and merchants."}
-
-   
-  
   ],
   "restaurants": [
   { "id" : 100, "title" : "neki restoran", "body" : "neki opis"}
-  
    ],
   "cafes": [
   { "id" : 1000, "title" : "neki kafic", "body" : "neki opis"}
-  
    ],
   "natureSpots": [
   { "id" : 10000, "title" : "neki vreloBosne", "body" : "neki opis"}
-  
    ]
 }
