@@ -27,5 +27,6 @@
   { "id" : 10004, "title" : "Stojčevac","url" : "https://avaz.ba/media/old/57c0a79c-81d4-4ce0-b356-589c0a0a0a64-stojcevac-19-08-2016-14.jpg", "body" : "The picnic spot, Stojčevac, is located on the periphery of Sarajevo Field, not far from Velika Aleja and Vrelo Bosne, both of which are just a short and pleasant walk away. Given its position at the foothills of Mount Igman, Stojčevac has plenty of clean, fresh air and summer temperatures are far more agreeable than in the center of town."}
    ],
   "feedbacks": [
-  { "id" : 55555, "email" : "user mail","name" : "user name", "body" : "message body"},
+  { "id" : 55555, "email" : "user mail","name" : "user name", "body" : "message body"}
+    ]
 }
