@@ -25,5 +25,7 @@
   { "id" : 10002, "title" : "Vrelo Bosne","url" : "https://media-cdn.tripadvisor.com/media/photo-s/18/46/60/ea/vrelo-bosne.jpg", "body" : "The natural monument, Vrelo Bosne, is spread out over 603 hectares at the foot of Mount Igman in Ilidža, about 15 kilometers from the center of Sarajevo. As it is the source of the Bosna River, with lovely lakes full of fish and swans and small green islands, and since temperatures in summer are several degrees lower here than in Sarajevo, Vrelo Bosne has been a favorite outing destination for Sarajevans for the past 100 years."},
   { "id" : 10003, "title" : "Park-šuma prijateljstva","url" : "https://visitsarajevo.ba/wp-content/uploads/2019/05/park_sume_prijateljstva_grdonj_sarajevo_izletiste_AA14-640x427.jpg", "body" : "This modern park covers more than six hectares and, besides offering visitors an overlook with a magnificent view of the city, there are also over 100 different kinds of trees, many facilities and activities for visitors."},
   { "id" : 10004, "title" : "Stojčevac","url" : "https://avaz.ba/media/old/57c0a79c-81d4-4ce0-b356-589c0a0a0a64-stojcevac-19-08-2016-14.jpg", "body" : "The picnic spot, Stojčevac, is located on the periphery of Sarajevo Field, not far from Velika Aleja and Vrelo Bosne, both of which are just a short and pleasant walk away. Given its position at the foothills of Mount Igman, Stojčevac has plenty of clean, fresh air and summer temperatures are far more agreeable than in the center of town."}
-   ]
+   ],
+  "feedbacks": [
+  { "id" : 55555, "email" : "user mail","name" : "user name", "body" : "message body"},
 }
