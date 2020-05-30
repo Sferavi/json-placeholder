@@ -1,6 +1,6 @@
 {
   "posts": [
-  { "id" : 1, "title" : "nesto", "body" : "neki body"},
+  { "id" : 1, "title" : "nesto","url" : "https://live.staticflickr.com/4561/38054606355_26429c884f_b.jpg", "body" : "neki body"},
   { "id" : 3, "title" : "nesto1", "body" : "neki body2"}
    
   
