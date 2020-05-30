@@ -8,5 +8,13 @@
   "restaurants": [
   { "id" : 2, "title" : "neki restoran", "body" : "neki opis"}
   
+   ],
+  "cafes": [
+  { "id" : 24, "title" : "neki restoran", "body" : "neki opis"}
+  
+   ],
+  "natureSpots": [
+  { "id" : 6, "title" : "neki restoran", "body" : "neki opis"}
+  
    ]
 }
